@@ -1,0 +1,24 @@
+.object_div,.object2_div,.object3_div {
+   background-color: beige;
+   width:350px;
+   height:450px;
+   border-radius: 10px;
+}
+.azure {
+    color:purple;
+    font-weight: 700;
+}
+.mb {
+    color:purple;
+      font-weight: 700;
+}
+#result {
+    background-color: gray;
+    border-radius: 10px;
+    height:120px;
+}
+
+
+ol {
+    display:block;
+}
